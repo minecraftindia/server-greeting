@@ -1,0 +1,5 @@
+name: ServerGreetings
+version: 0.0.1a
+author: CrustyCrafts | MinecraftIndia
+main: in.minecraftindia.servergreetings.Main
+description: A java plugin for spigot to Display custom creative welcome messages.
