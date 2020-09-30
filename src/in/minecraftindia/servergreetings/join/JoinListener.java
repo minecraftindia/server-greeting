@@ -40,7 +40,7 @@ public class JoinListener implements Listener {
 		Player p = d.getEntity().getPlayer();
 		Player k = d.getEntity().getKiller();
 				
-		d.setDeathMessage(Utils.chat(plugin.getConfig().getString("death_message").split(";")[rng.RnG(plugin.getConfig().getString("death_message").split(";").length)].replace("<player>", p.getName()).replace("<killer>", k.getDisplayName())));
+		d.setDeathMessage(Utils.chat(plugin.getConfig().getString("death_message").split(";")[rng.RnG(plugin.getConfig().getString("death_message").split(";").length)].replace("<player>", p.getName()).replace("<killer>", k.getName())));
 		
 	}
 

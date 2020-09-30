@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ATRAY/git/server-greeting/Referenced Libraries/spigot-1.16.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ATRAY/Downloads/spigot-1.16.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
