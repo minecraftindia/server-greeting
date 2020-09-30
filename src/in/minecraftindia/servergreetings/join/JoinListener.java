@@ -14,7 +14,7 @@ import in.minecraftindia.servergreetings.utils.Utils;
 public class JoinListener implements Listener {
 	
 	private static Main plugin;
-	
+	//hello
 	@SuppressWarnings("static-access")
 	public JoinListener(Main plugin) {
 		this.plugin = plugin;
